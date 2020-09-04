@@ -9,5 +9,5 @@
 
 #### Hi there
 - You can visit to my site at [Ibnu's Dev](https://ibnuis.dev)
-- Web Developer at [Digimac ID](https://digimac.id)
+- Software Engineer at [Digimac ID](https://digimac.id)
 - Linux Desktop and Server Enthusiast
