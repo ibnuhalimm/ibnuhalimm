@@ -6,6 +6,7 @@
   </a>
 </p>
 
-Web Developer at [Digimac ID](digimac.id)
-
 <a href="https://github.com/ibnuhalimm"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=ibnuhalimm&show_icons=true" align="right" height="150" /></a>
+
+- Web Developer at [Digimac ID](digimac.id)
+- Linux Desktop and Server Enthusiast
