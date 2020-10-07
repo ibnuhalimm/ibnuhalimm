@@ -9,7 +9,6 @@
 
 #### Hi there
 - You can visit to my site at [Ibnu's Dev](https://ibnuis.dev)
-- Fullstack Web Developer
+- Fullstack Web Developer and Linuxer
 - Software Engineer at [Digimac ID](https://digimac.id)
-- Linux Desktop User
 - Linux Server Administrator
