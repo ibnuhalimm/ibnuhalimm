@@ -7,6 +7,11 @@
 <a href="https://github.com/ibnuhalimm"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=ibnuhalimm&show_icons=true" align="right" height="150" /></a>
 
 
+<a href="https://github.com/ibnuhalimm">
+  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/top-langs/?username=ibnuhalimm&show_icons=true" align="right" height="150" />
+</a>
+
+
 #### Hi there
 - You can visit to my site at [Ibnu's Dev](https://ibnuis.dev)
 - Fullstack Web Developer and Linuxer
