@@ -5,7 +5,7 @@
 </p>
 
 <a href="https://github.com/ibnuhalimm">
-  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api/?username=ibnuhalimm&show_icons=true&count_private=true" align="right" height="200" />
+  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api/?username=ibnuhalimm&show_icons=true&count_private=true" align="right" height="150" />
 </a>
 
 
