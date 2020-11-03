@@ -12,4 +12,4 @@
 #### Hi there
 - You can visit to my site at [Ibnu's Dev](https://ibnuis.dev)
 - Fullstack Web Developer
-- Linuxer desktop and Server Administrator
+- Linuxer desktop and server administrator
