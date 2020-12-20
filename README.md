@@ -10,6 +10,6 @@
 
 
 #### Hi there
-- You can visit to my site at [Ibnu's Dev](https://ibnuis.dev)
+- You can visit to my website >> [Ibnu's Dev](https://ibnuis.dev)
 - Fullstack Web Developer
 - Linuxer desktop and server administrator
