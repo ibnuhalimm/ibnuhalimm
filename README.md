@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ibnuhmustofa" target="blank"><img src="https://img.shields.io/twitter/follow/ibnuhmustofa?logo=twitter&style=for-the-badge" alt="ibnuhmustofa" /></a> </p>
 
-- 🌱 I’m currently learning **Vuejs**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://ibnuis.dev/portfolio](https://ibnuis.dev/portfolio)
 
