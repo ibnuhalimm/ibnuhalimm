@@ -1,19 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm Ibnu Halim Mustofa</h1>
-<h3 align="center">A full-stack web developer</h3>
+<h3 align="center">A full-stack web developer from Indonesia</h3>
 
 
 <p align="left"> <a href="https://twitter.com/ibnuhmustofa" target="blank"><img src="https://img.shields.io/twitter/follow/ibnuhmustofa?logo=twitter&style=for-the-badge" alt="ibnuhmustofa" /></a> </p>
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [https://ibnuis.dev/portfolio](https://ibnuis.dev/portfolio)
+- 👨‍💻 All of my previous projects are available at [https://ibnuis.dev/portfolio](https://ibnuis.dev/portfolio)
 
 - 📝 I regularly write articles on [https://ibnuis.dev/blog](https://ibnuis.dev/blog)
 
 - 📄 Know about my experiences [https://ibnuis.dev/resume](https://ibnuis.dev/resume)
 
-- ⚡ Fun fact **I think I am perfectionist, 😃**
+- ⚡ Fun fact **I speak javanese, 😃**
 
 
 <h3 align="left">Connect with me:</h3>
