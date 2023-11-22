@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my previous projects are available at [https://ibnuis.dev/portfolio](https://ibnuis.dev/portfolio)
+- 👨‍💻 All of my previous projects are available at [https://ibnumustofa.dev/portfolio](https://ibnumustofa.dev/portfolio)
 
-- 📝 I wrote articles on [https://ibnuis.dev/blog](https://ibnuis.dev/blog)
+- 📝 I wrote articles on [https://ibnumustofa.dev/blog](https://ibnumustofa.dev/blog)
 
-- 📄 Know about my experiences at [https://ibnuis.dev/resume](https://ibnuis.dev/resume)
+- 📄 Know about my experiences at [https://ibnumustofa.dev/resume](https://ibnumustofa.dev/resume)
 
 - ⚡ Fun fact **I speak javanese, 😃**
 
@@ -19,7 +19,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://twitter.com/emustofaibnu" target="blank">
+        <a href="https://twitter.com/ibnuhmustofa" target="blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibnuhmustofa" height="30" width="40" />
         </a>
       </td>
