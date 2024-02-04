@@ -72,7 +72,7 @@
     <tr>
       <td>
         <a href="https://tailwindcss.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="auto"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="auto"/>
         </a>
       </td>
       <td>
