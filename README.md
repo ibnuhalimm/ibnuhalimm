@@ -63,11 +63,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/angular/angular-original.svg" alt="Angular" width="40" height="auto"/>
         </a>
       </td>
-      <td>
-        <a href="https://reactjs.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/react/react-original.svg" alt="react" width="40" height="auto"/>
-        </a>
-      </td>
     </tr>
     <tr>
       <td>
@@ -93,11 +88,6 @@
       <td>
         <a href="https://www.figma.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/figma/figma-original.svg" alt="figma" width="40" height="auto"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://postman.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/postman/postman-original.svg" alt="postman" width="40" height="auto"/>
         </a>
       </td>
     </tr>
@@ -127,11 +117,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="auto"/>
         </a>
       </td>
-      <td>
-        <a href="https://www.nginx.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="auto"/>
-        </a>
-      </td>
     </tr>
     <tr>
       <td>
@@ -159,9 +144,31 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/nestjs/nestjs-original.svg" alt="Nest JS" width="40" height="auto"/>
         </a>
       </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://reactjs.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/react/react-original.svg" alt="react" width="40" height="auto"/>
+        </a>
+      </td>
       <td>
         <a href="https://cypress.io" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="auto"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://postman.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/postman/postman-original.svg" alt="postman" width="40" height="auto"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://swagger.io" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="auto"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.nginx.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="auto"/>
         </a>
       </td>
     </tr>
