@@ -159,6 +159,11 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/nestjs/nestjs-original.svg" alt="Nest JS" width="40" height="auto"/>
         </a>
       </td>
+      <td>
+        <a href="https://cypress.io" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="auto"/>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
