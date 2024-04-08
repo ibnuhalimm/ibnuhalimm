@@ -154,6 +154,11 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="auto"/>
         </a>
       </td>
+      <td>
+        <a href="https://nestjs.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/nestjs/nestjs-original.svg" alt="Nest JS" width="40" height="auto"/>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
