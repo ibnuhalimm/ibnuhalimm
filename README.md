@@ -86,8 +86,8 @@
         </a>
       </td>
       <td>
-        <a href="https://webpack.js.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="auto"/>
+        <a href="https://mongodb.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="auto"/>
         </a>
       </td>
       <td>
