@@ -133,5 +133,27 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="40" height="auto"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.jetbrains.com/webstorm" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/webstorm/webstorm-original.svg" alt="Webstorm" width="40" height="auto"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://code.visualstudio.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="auto"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://visualstudio.microsoft.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="auto"/>
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
